@@ -14,9 +14,8 @@
 1. Distributed Version Control with Git and Bitbucket
 2. Development Installations
 3. Questions
-4. Bitbucket repo links:
-    a) this assignment and
-    b) the completed tutorial (bitbucketstationslocations)
+4. Bitbucket repo link: https://bitbucket.org/librarianandprogrammer/lis5377/src/master/
+   
 
 
 #### README.md file should include the following items:
@@ -32,13 +31,14 @@
 >
 > #### Git commands w/short descriptions:
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
+1. git init -- Initializes a new Git repository in the current directory.
+2. git status -- Displays the current state of the working directory and staging area.
+3. git add -- Stages files so they are included in the next commit.
+4. git commit -- Saves staged changes to the local repository with a descriptive message.
+5. git remote -v -- Displays the remote repository URLs.
+6. git rm -- Removes files from the working directory and staging area.
+7. git push -- Uploads local commits to the remote repository.
+ 
 
 #### Assignment Screenshots (Note: **BE SURE** to modify for specific course!):
 
