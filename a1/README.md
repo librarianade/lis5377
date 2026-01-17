@@ -60,3 +60,8 @@
 ## Screenshot: run_py_files_in_jupyter_lab.ipynb
 
 ![run_py_files_in_jupyter_lab notebook](run_py_files_jupyter.png)
+
+
+## Screenshot: magic_commands.ipynb
+
+![magic_commands notebook](magic_commands.png)
