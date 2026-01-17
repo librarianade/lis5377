@@ -55,3 +55,8 @@
 ## Screenshot Paycheck Calculator (Jupyter Lab)
 
 ![Paycheck Calculator running in Jupyter Lab](jupyter_paycheck.png)
+
+
+## Screenshot: run_py_files_in_jupyter_lab.ipynb
+
+![run_py_files_in_jupyter_lab notebook](run_py_files_jupyter.png)
