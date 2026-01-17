@@ -68,4 +68,6 @@
 
 ## Screenshot: magic_commands.ipynb
 
-![magic_commands notebook](magic_commands.png)
+![magic_commands notebook (part 1)](magic_commands.png)
+![magic_commands notebook (part 2)](magic_commands_2.png)
+
