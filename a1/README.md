@@ -34,7 +34,7 @@
 > 
 > 
 >
-> #### The are some of the Git commands used with short descriptions:
+> #### These are some of the Git commands used with short descriptions:
 
 1. git init -- Initializes a new Git repository in the current directory.
 2. git status -- Displays the current state of the working directory and staging area.
