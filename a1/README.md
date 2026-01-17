@@ -48,10 +48,6 @@
 ![Paycheck Calculator running in IDLE](idle_paycheck.png)
 
 
-*Screenshot of running java Hello*:
+## Screenshot Paycheck Calculator (Visual Studio Code)
+![Paycheck Calculator running in VS Code](vscode_paycheck.png)
 
-![JDK Installation Screenshot](img/jdk_install.png)
-
-*Screenshot of Android Studio - My First App*:
-
-![Android Studio Installation Screenshot](img/android.png)
