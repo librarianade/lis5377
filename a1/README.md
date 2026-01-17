@@ -51,3 +51,7 @@
 ## Screenshot Paycheck Calculator (Visual Studio Code)
 ![Paycheck Calculator running in VS Code](vscode_paycheck.png)
 
+
+## Screenshot Paycheck Calculator (Jupyter Lab)
+
+![Paycheck Calculator running in Jupyter Lab](jupyter_paycheck.png)
