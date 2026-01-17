@@ -1,41 +1,55 @@
-> **NOTE:** This README.md file should be placed at the **root of your main directory.**
+> **NOTE:** This README.md file should be placed at the **root of each subdirectory--e.g., a1, a2, etc.**
+>
+>Also, this file **must** use Markdown syntax, and provide project documentation as per below--otherwise, points **will** be deducted.
+>
 
-# LIS5377 AI Applications
+# AI Application (LIS5377)
 
 ## Ayansewa Adedeji
 
-### LIS5377 Requirements:
+### Assignment 1 Requirements:
 
-*Course Work Links:*
+*Four Parts:*
 
-1. [A1 README.md](a1/README.md "My A1 README.md file")
-    - Install Anaconda Python
-    - Install Visual Studio Code
-    - Create a1_paycheck_calculator application
-    - Create a1_paycheck_calculator Jupyter Notebook
-    - Provide screenshots of installations
-    - Create Bitbucket repo
-    - Provide git command descriptions
-     
-2. [A2 README.md](a2/README.md "My A2 README.md file")
-    - Create conda environments
-    - Using "Separation of Concerns" design principles
-    - Examining, sorting, shaping, and analyzing data sets
-    - Provide screenshots of completed app
-    - Provide screenshots of completed Python skill sets
+1. Distributed Version Control with Git and Bitbucket
+2. Development Installations
+3. Questions
+4. Bitbucket repo links:
+    a) this assignment and
+    b) the completed tutorial (bitbucketstationslocations)
 
-3. [A3 README.md](a3/README.md "My A3 README.md file")
-    - TBD
 
-4. [A4 README.md](a4/README.md "My A4 README.md file")
-    - TBD
+#### README.md file should include the following items:
 
-5. [A5 README.md](a5/README.md "My A5 README.md file")
-    - TBD
+* Screenshots of a1_paycheck calculator application running
+* 
+* 
+* 
 
-6. [P1 README.md](p1/README.md "My P1 README.md file")
-    - TBD
+> This is a blockquote.
+> 
+> This is the second paragraph in the blockquote.
+>
+> #### Git commands w/short descriptions:
 
-7. [P2 README.md](p2/README.md "My P2 README.md file")
-    - TBD
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
 
+#### Assignment Screenshots (Note: **BE SURE** to modify for specific course!):
+
+*Screenshot of AMPPS running http://localhost*:
+
+![AMPPS Installation Screenshot](img/ampps.png)
+
+*Screenshot of running java Hello*:
+
+![JDK Installation Screenshot](img/jdk_install.png)
+
+*Screenshot of Android Studio - My First App*:
+
+![Android Studio Installation Screenshot](img/android.png)
