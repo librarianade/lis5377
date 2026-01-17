@@ -1,35 +1,40 @@
-> **NOTE:** This README.md file should be placed at the **root of each subdirectory--e.g., a1, a2, etc.**
+> **NOTE:** This bitbucket was created to showcase lesson learnt in class and projects executed
 >
->Also, this file **must** use Markdown syntax, and provide project documentation as per below--otherwise, points **will** be deducted.
->
+
 
 # AI Application (LIS5377)
 
-## Ayansewa Adedeji
+## Developer: Ayansewa Adedeji
 
 ### Assignment 1 Requirements:
 
-*Four Parts:*
 
 1. Distributed Version Control with Git and Bitbucket
 2. Development Installations
-3. Questions
+    - Anaconda Python
+    - Visual Studio Code
+    - Create a1_paycheck_calculator application
+    - Create a1_paycheck_calculator Jupyter Notebook
+    - Screenshots of installations
+    - Create Bitbucket repo
+    - git command descriptions
 4. Bitbucket repo link: https://bitbucket.org/librarianandprogrammer/lis5377/src/master/
    
 
 
-#### README.md file should include the following items:
+#### The README.md file include the following items:
 
-* Screenshots of a1_paycheck calculator application running
-* 
-* 
-* 
+* Screenshots of a1_paycheck calculator application running (for IDLE)
+* Screenshots of a1_paycheck calculator application running (for VScode)
+* Screenshots of a1_paycheck calculator application running (for Jupyterlap)
+* Screenshots of a1_paycheck calculator application running (for run_py_files_in_jupyter_lab.ipynb
+ * Screenshots of a1_paycheck calculator application running (for magic commands)
 
-> This is a blockquote.
 > 
-> This is the second paragraph in the blockquote.
+> 
+> 
 >
-> #### Git commands w/short descriptions:
+> #### The are some of the Git commands used with short descriptions:
 
 1. git init -- Initializes a new Git repository in the current directory.
 2. git status -- Displays the current state of the working directory and staging area.
@@ -40,8 +45,7 @@
 7. git push -- Uploads local commits to the remote repository.
  
 
-#### Assignment Screenshots (Note: **BE SURE** to modify for specific course!):
-
+#### Screenshots:
 
 ## Screenshot Paycheck Calculator (IDLE)
 
