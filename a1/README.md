@@ -42,9 +42,11 @@
 
 #### Assignment Screenshots (Note: **BE SURE** to modify for specific course!):
 
-*Screenshot of AMPPS running http://localhost*:
 
-![AMPPS Installation Screenshot](img/ampps.png)
+## Screenshot Paycheck Calculator (IDLE)
+
+![Paycheck Calculator running in IDLE](idle_paycheck.png)
+
 
 *Screenshot of running java Hello*:
 
