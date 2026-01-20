@@ -21,6 +21,13 @@
 4. Bitbucket repo link: https://bitbucket.org/librarianandprogrammer/lis5377/src/master/
    
 
+## README.md link to ipynb files
+
+- [Paycheck Calculator Notebook](a1_paycheck_calculator.ipynb)
+- [Run Python Files in Jupyter Lab](run_py_files_in_jupyter_lab.ipynb)
+- [Magic Commands Notebook](magic_commands.ipynb)
+
+
 
 #### The README.md file include the following items:
 
