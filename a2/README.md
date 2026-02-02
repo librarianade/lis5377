@@ -25,15 +25,6 @@
 - [ss2_tuples.png](images/ss2_tuples.png)
 - [ss3_sets.gif](images/ss3_sets.gif)
 
-## Preview of skillsets (click image to open full size)
-
-[![SkillSet 1 – Lists](images/ss1_list.png)](images/ss1_list.png)
-
-[![SkillSet 2 – Tuples](images/ss2_tuples.png)](images/ss2_tuples.png)
-
-[![SkillSet 3 – Sets](images/ss3_sets.gif)](images/ss3_sets.gif)
-
-
 
 ## Screenshot of Conda environment
 
