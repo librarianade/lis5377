@@ -25,10 +25,7 @@
 - [ss2_tuples.png](images/ss2_tuples.png)
 - [ss3_sets.gif](images/ss3_sets.gif)
 
-## Preview (click image to open full size)
-[![Conda env list](images/conda_env_list.png)](images/conda_env_list.png)
-
-[![my_env_versions output](images/my_env_versions_output.png)](images/my_env_versions_output.png)
+## Preview of skillsets (click image to open full size)
 
 [![SkillSet 1 – Lists](images/ss1_list.png)](images/ss1_list.png)
 
