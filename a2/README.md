@@ -25,6 +25,7 @@
 
 ## Screenshot of Conda environment
 
+
 ![conda env list](images/a2_conda_env_list.png)
 
 
