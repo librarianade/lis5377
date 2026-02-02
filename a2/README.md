@@ -2,7 +2,7 @@
 
 ## Developer: Ayansewa Adedeji
 
-### LIS5377 Requirements (Assignment 2):
+### LIS5377 Requirements (Assignment 2)
     - Create conda environments
     - Using "Separation of Concerns" design principles
     - Examining, sorting, shaping, and analyzing data sets
