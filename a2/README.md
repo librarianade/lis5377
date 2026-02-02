@@ -1,10 +1,8 @@
-> **NOTE:** This README.md file should be placed at the **root of your main directory.**
-
 # LIS5377 AI Applications
 
-## Ayansewa Adedeji
+## Developer: Ayansewa Adedeji
 
-### LIS5377 Requirements:
+### LIS5377 Requirements (Assignment 2):
 
 *Course Work Links:*
 
@@ -23,6 +21,21 @@
     - Examining, sorting, shaping, and analyzing data sets
     - Provide screenshots of completed app
     - Provide screenshots of completed Python skill sets
+
+
+## Screenshot of Conda environment
+
+![conda env list](images/a2_conda_env_list.png)
+
+
+## Screenshot of completed app
+
+![my env versions](images/my_env_versions_output.png)
+
+
+## Screenshot (Gifs) of A2.ipynb
+![my env versions](images/my_env_versions_output.gif)
+
 
 3. [A3 README.md](a3/README.md "My A3 README.md file")
     - TBD
