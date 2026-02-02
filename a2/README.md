@@ -37,6 +37,34 @@
 ![my env versions](images/my_env_versions_output.gif)
 
 
+## Screenshots of running programs based on Skillsets1-3
+---
+
+## Skill Set Demonstrations
+
+### SkillSet 1 – Lists
+Screenshot of running program demonstrating Python Lists (two-file design: functions.py + main.py).
+
+![SkillSet 1 – Lists](images/ss1_list.png)
+
+
+
+---
+
+### SkillSet 2 – Tuples
+Screenshot of running program demonstrating Python Tuples (two-file design: functions.py + main.py).
+
+![SkillSet 2 – Tuples](images/ss2_tuples.png)
+
+---
+
+### SkillSet 3 – Sets
+GIF of running program demonstrating Python Sets (two-file design: functions.py + main.py).
+
+![SkillSet 3 – Sets](images/ss3_sets.gif)
+
+
+
 3. [A3 README.md](a3/README.md "My A3 README.md file")
     - TBD
 
