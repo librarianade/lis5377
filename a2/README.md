@@ -3,8 +3,6 @@
 ## Developer: Ayansewa Adedeji
 
 ### LIS5377 Requirements (Assignment 2):
-
-   [A2 README.md](a2/README.md "My A2 README.md file")
     - Create conda environments
     - Using "Separation of Concerns" design principles
     - Examining, sorting, shaping, and analyzing data sets
