@@ -25,8 +25,7 @@
 
 ## Screenshot of Conda environment
 
-
-![conda env list](images/a2_conda_env_list.png)
+![conda env list](images/conda_env_list.png)
 
 
 ## Screenshot of completed app
