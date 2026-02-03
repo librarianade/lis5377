@@ -21,7 +21,7 @@
 - [conda_env_list.png](images/conda_env_list.png)
 - [my_env_versions_output.png](images/my_env_versions_output.png)
 - [my_env_versions_output.gif](images/my_env_versions_output.gif)
-- [ss1_list.png](images/ss1_list.png)
+- [ss1_list.gif](images/ss1_list.gif)
 - [ss2_tuples.png](images/ss2_tuples.png)
 - [ss3_sets.gif](images/ss3_sets.gif)
 
@@ -49,7 +49,7 @@
 ### SkillSet 1 – Lists
 Screenshot of running program demonstrating Python Lists (two-file design: functions.py + main.py).
 
-![SkillSet 1 – Lists](images/ss1_list.png)
+![SkillSet 1 – Lists](images/ss1_list.gif)
 
 
 ---
