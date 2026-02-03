@@ -14,7 +14,7 @@
 
 ## Files
 - [A2.ipynb](A2.ipynb)
-- [testenv.yml](testenv.yml)
+- [configuration](testenv.yml)
 
 
 
@@ -42,9 +42,6 @@ GIF of running program demonstrating Python Lists (two-file design: functions.py
 
 
 - **[SkillSet 1 – Lists](../skill_set/ss1_list/)**
-  - [functions.py](../skill_set/ss1_list/functions.py)
-  - [main.py](../skill_set/ss1_list/main.py)
-
 
 ![SkillSet 1 – Lists](images/ss1_list.gif)
 
@@ -55,8 +52,6 @@ GIF of running program demonstrating Python Lists (two-file design: functions.py
 Screenshot of running program demonstrating Python Tuples (two-file design: functions.py + main.py).
 
 - **[SkillSet 2 – Tuples](../skill_set/ss2_tuples/)**
-  - [functions.py](../skill_set/ss2_tuples/functions.py)
-  - [main.py](../skill_set/ss2_tuples/main.py)
 
 ![SkillSet 2 – Tuples](images/ss2_tuples.png)
 
@@ -65,7 +60,6 @@ Screenshot of running program demonstrating Python Tuples (two-file design: func
 GIF of running program demonstrating Python Sets (two-file design: functions.py + main.py).
 
 - **[SkillSet 3 – Sets](../skill_set/ss3_sets/)**
-  - [functions.py](../skill_set/ss3_sets/functions.py)
-  - [main.py](../skill_set/ss3_sets/main.py)
+
 
 ![SkillSet 3 – Sets](images/ss3_sets.gif)
