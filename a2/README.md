@@ -14,16 +14,8 @@
 
 ## Files
 - [A2.ipynb](A2.ipynb)
-- [my_env_versions.py](my_env_versions.py)
 - [testenv.yml](testenv.yml)
 
-## Screenshots / GIFs (clickable)
-- [conda_env_list.png](images/conda_env_list.png)
-- [my_env_versions_output.png](images/my_env_versions_output.png)
-- [my_env_versions_output.gif](images/my_env_versions_output.gif)
-- [ss1_list.gif](images/ss1_list.gif)
-- [ss2_tuples.png](images/ss2_tuples.png)
-- [ss3_sets.gif](images/ss3_sets.gif)
 
 
 ## Screenshot of Conda environment
