@@ -31,9 +31,10 @@
 ![conda env list](images/conda_env_list.png)
 
 
-## Screenshot of completed app
 
-![my env versions](images/my_env_versions_output.png)
+### Package Versions (JupyterLab)
+[![Package versions run in JupyterLab](images/my_env_versions_jupyterlab.png)](images/my_env_versions_jupyterlab.png)
+
 
 
 ## Screenshot (Gifs) of A2.ipynb
