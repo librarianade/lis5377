@@ -1,81 +1,79 @@
+"""
+SkillSet 3 – Sets
+Developer: Ayansewa Adedeji
+"""
+
 from functions import *
 
-def main():
-    print("Python Sets - like mathematical sets!")
-    print("Program Requirements:")
-    print("Developer: Ayansewa Adedeji\n")
+# Create sets
+set1 = {True, 2, 3.14, 'test'}
+set2 = set([2, 'test', 3.14, True])
+set3 = set((2, 'test', 3.14, True))
 
-    set1 = create_set1()
-    print("Print set1 created using curly brackets:")
-    print("Note: following values used: 2, 'test', 3.14, True")
-    print("Note: Value sequence *used* not guaranteed!")
-    print(set1, "\n")
+print("Print set1 created using curly brackets:")
+display_set(set1)
 
-    print("Print set1 type:")
-    print(set_type(set1), "\n")
+print("\nPrint set1 type:")
+display_type(set1)
 
-    set2 = create_set2_from_list()
-    print("Print set2 created using set() function with list:")
-    print(set2, "\n")
+print("\nPrint set2 created using set() function with list:")
+display_set(set2)
 
-    print("Print set2 type:")
-    print(set_type(set2), "\n")
+print("\nPrint set2 type:")
+display_type(set2)
 
-    set3 = create_set3_from_tuple()
-    print("Print set3 created using set() function with tuple:")
-    print(set3, "\n")
+print("\nPrint set3 created using set() function with tuple:")
+display_set(set3)
 
-    print("Print set3 type:")
-    print(set_type(set3), "\n")
+print("\nPrint set3 type:")
+display_type(set3)
 
-    print("Display number of set1 elements:")
-    print(set_len(set1), "\n")
+print("\nDisplay number of set1 elements:")
+display_length(set1)
 
-    print("Add set element (5) using add() method:")
-    print(add_value(set1, 5), "\n")
+add_element(set1, 5)
+print("\nAdd set element (5) using add() method:")
+display_set(set1)
 
-    print("Display number of set1 elements:")
-    print(set_len(set1), "\n")
+print("\nDisplay number of set1 elements:")
+display_length(set1)
 
-    print("Display updated set1 elements:")
-    print("Note: Updated with following values: 1, 2, 3, 4")
-    print("Note: Sets can ONLY contain unique elements! (Note: True=1, and value 2 already exist!)")
-    print(update_set(set1, [1, 2, 3, 4]), "\n")
+update_set(set1)
+print("\nDisplay updated set1 elements:")
+display_set(set1)
 
-    print("Display number of set1 elements:")
-    print(set_len(set1), "\n")
+print("\nDisplay number of set1 elements:")
+display_length(set1)
 
-    print("Discard 4:")
-    print(discard_value(set1, 4), "\n")
+discard_element(set1, 4)
+print("\nDiscard 4:")
+display_set(set1)
 
-    print("Length of set1:")
-    print(set_len(set1), "\n")
+print("\nLength of set1:")
+display_length(set1)
 
-    print("Remove 'test':")
-    print(remove_value(set1, "test"), "\n")
+remove_element(set1, 'test')
+print("\nRemove 'test':")
+display_set(set1)
 
-    print("Length of set1:")
-    print(set_len(set1), "\n")
+print("\nLength of set1:")
+display_length(set1)
 
-    print("Note: When deleting set element that doesn't exist, discard() ignores it, but remove() raises KeyError!\n")
+print("\nDisplay minimum value:")
+display_min(set1)
 
-    print("Display minimum value (Note: True=1):")
-    print(min_value(set1), "\n")
+print("\nDisplay maximum value:")
+display_max(set1)
 
-    print("Display maximum value:")
-    print(max_value(set1), "\n")
+print("\nDisplay set1 elements:")
+display_set(set1)
 
-    print("Display set1 elements:")
-    print(set1, "\n")
+print("\nDisplay sum of values:")
+display_sum(set1)
 
-    print("Display sum of values (*must* be numeric, or able to convert to numeric):")
-    print(sum_values(set1), "\n")
+clear_set(set1)
+print("\nDelete all set elements:")
+display_set(set1)
 
-    print("Delete all set elements:")
-    print(clear_set(set1), "\n")
-
-    print("Length of set1:")
-    print(set_len(set1))
-
-if __name__ == "__main__":
-    main()
+print("\nLength of set1:")
+display_length(set1)

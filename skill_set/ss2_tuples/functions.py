@@ -1,21 +1,20 @@
-def build_tuple():
-    return (1, "test", 3.14, True)
+"""
+SkillSet 2 – Tuples Functions
+Developer: Ayansewa Adedeji
+"""
 
-def unpack_tuple(t):
-    elem1, elem2, elem3, elem4 = t
-    return elem1, elem2, elem3, elem4
+def display_tuple(tpl):
+    print(tpl)
 
-def tuple_length(t):
-    return len(t)
+def unpack_tuple(tpl):
+    elem1, elem2, elem3, elem4 = tpl
+    print(f"elem1={elem1}, elem2={elem2}, elem3={elem3}, elem4={elem4}")
 
-def third_element(t):
-    return t[2]
+def display_length(tpl):
+    print(len(tpl))
 
-def slice_second_third(t):
-    return t[1:3]
+def display_third_element(tpl):
+    print(tpl[2])
 
-def reassign_tuple_parentheses():
-    return (1, 2, 3, 4)
-
-def reassign_tuple_packing():
-    return 5, 6, 7, 8
+def display_slice(tpl):
+    print(tpl[1:3])

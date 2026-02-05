@@ -1,43 +1,39 @@
-def create_set1():
-    return {2, "test", 3.14, True}
+"""
+SkillSet 3 – Sets Functions
+Developer: Ayansewa Adedeji
+"""
 
-def set_type(s):
-    return type(s)
+def display_set(st):
+    print(st)
 
-def create_set2_from_list():
-    return set([2, "test", 3.14, True])
+def display_type(st):
+    print(type(st))
 
-def create_set3_from_tuple():
-    return set((2, "test", 3.14, True))
+def display_length(st):
+    print(len(st))
 
-def set_len(s):
-    return len(s)
+def add_element(st, value):
+    st.add(value)
 
-def add_value(s, value):
-    s.add(value)
-    return s
+def update_set(st):
+    st.update([1, 2, 3, 4])
 
-def update_set(s, iterable):
-    s.update(iterable)
-    return s
+def discard_element(st, value):
+    st.discard(value)
 
-def discard_value(s, value):
-    s.discard(value)
-    return s
+def remove_element(st, value):
+    st.remove(value)
 
-def remove_value(s, value):
-    s.remove(value)
-    return s
+def display_min(st):
+    print(min(st))
 
-def min_value(s):
-    return min(s)
+def display_max(st):
+    print(max(st))
 
-def max_value(s):
-    return max(s)
+def display_sum(st):
+    # only numeric values allowed
+    numeric_values = [x for x in st if isinstance(x, (int, float))]
+    print(sum(numeric_values))
 
-def sum_values(s):
-    return sum(s)
-
-def clear_set(s):
-    s.clear()
-    return s
+def clear_set(st):
+    st.clear()
