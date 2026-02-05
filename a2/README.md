@@ -53,7 +53,7 @@ Screenshot of running program demonstrating Python Tuples (two-file design: func
 
 - **[SkillSet 2 – Tuples](../skill_set/ss2_tuples/)**
 
-![SkillSet 2 – Tuples](images/ss2_tuples.png)
+![SkillSet 2 – Tuples](images/ss2_tuples.gif)
 
 ---
 
