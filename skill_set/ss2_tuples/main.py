@@ -1,38 +1,26 @@
-"""
-SkillSet 2 – Tuples
+#!/usr/bin/env python3
+"""SkillSet 2 – Tuples (main.py)
 Developer: Ayansewa Adedeji
 """
 
-from functions import *
+import functions as f
 
-my_tuple = (1, 'test', 3.14, True)
 
-print("Print my_tuple:")
-display_tuple(my_tuple)
+def main():
+    """Function docstring goes here..."""
+    f.get_requirements()
 
-print("\nPrint my_tuple unpacking:")
-unpack_tuple(my_tuple)
+    my_tuple = f.get_tuple()
+    f.unpack_tuple(my_tuple)
+    f.get_tuple_len(my_tuple)
+    f.print_third_item(my_tuple)
+    f.print_slice(my_tuple)
 
-print("\nDisplay number of my_tuple elements:")
-display_length(my_tuple)
+    my_tuple = f.reassign_tuple_parentheses()
+    my_tuple = f.reassign_tuple_packing()
 
-print("\nPrint third element in my_tuple:")
-display_third_element(my_tuple)
+    f.delete_tuple_note()
 
-print("\nPrint slice of my_tuple (second and third elements):")
-display_slice(my_tuple)
 
-# Reassign tuple using parentheses
-my_tuple = (1, 2, 3, 4)
-
-print("\nPrint reassigned my_tuple:")
-display_tuple(my_tuple)
-
-# Reassign tuple using packing (no parentheses)
-my_tuple = 5, 6, 7, 8
-
-print("\nPrint reassigned my_tuple:")
-display_tuple(my_tuple)
-
-# Delete tuple
-del my_tuple
+if __name__ == "__main__":
+    main()

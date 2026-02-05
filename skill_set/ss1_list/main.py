@@ -1,54 +1,29 @@
-"""
-SkillSet 1 – Lists
+#!/usr/bin/env python3
+"""SkillSet 1 – Lists (main.py)
 Developer: Ayansewa Adedeji
 """
 
-from functions import *
+import functions as f
 
-# Create list1
-list1 = [1, 'test', 3.14, True]
 
-print("Print list1:", list1)
+def main():
+    """Function docstring goes here..."""
+    f.get_requirements()
 
-append_at(list1)
-print("\nAppend '@' character to end of list1:")
-print(list1)
+    your_list = f.get_list1()
+    f.add_list1(your_list)
+    f.insert_list1(your_list)
+    f.get_list1_len(your_list)
+    f.reverse_list1(your_list)
+    f.remove_last_list1_item(your_list)
+    f.delete_second_list1_item(your_list)
+    f.delete_list1_item_by_value(your_list)
+    f.delete_all_list1_items(your_list)
 
-insert_at_beginning(list1)
-print("\nInsert number 6 at beginning of list1:")
-print(list1)
+    new_list = f.get_list2()
+    f.sort_list2(new_list)
+    f.reverse_sort_list2(new_list)
 
-print("\nDisplay number of list1 elements:")
-print(len(list1))
 
-reverse_list(list1)
-print("\nReverse list1:")
-print(list1)
-
-remove_last_element(list1)
-print("\nRemove last list1 element:")
-print(list1)
-
-delete_second_element_by_index(list1)
-print("\nDelete second element from list1 by index (note: index 1=2nd element):")
-print(list1)
-
-delete_element_by_value(list1, 3.14)
-print("\nDelete element from list1 by value (3.14):")
-print(list1)
-
-delete_all_elements(list1)
-print("\nDelete all elements from list1:")
-print(list1)
-
-# Create list2
-list2 = ['test', 'a', 'new', 'list']
-print("\nPrint list2:", list2)
-
-sort_list_alpha(list2)
-print("\nSort elements in list2 alphabetically - using sort():")
-print(list2)
-
-sort_list_reverse_alpha(list2)
-print("\nSort elements in list2 reverse alphabetically - using sort():")
-print(list2)
+if __name__ == "__main__":
+    main()
