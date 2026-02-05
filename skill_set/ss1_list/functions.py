@@ -1,44 +1,48 @@
-def build_list1():
-    return [1, "test", 3.14, True]
+"""
+SkillSet 1 – Lists Functions
+Developer: Ayansewa Adedeji
+"""
 
 def append_at(lst):
-    lst.append("@")
-    return lst
+    # Append '@' to end of list
+    lst.append('@')
 
-def insert_six_front(lst):
+
+def insert_at_beginning(lst):
+    # Insert number 6 at beginning of list
     lst.insert(0, 6)
-    return lst
 
-def count_elements(lst):
-    return len(lst)
 
 def reverse_list(lst):
+    # Reverse list
     lst.reverse()
-    return lst
 
-def remove_last(lst):
+
+def remove_last_element(lst):
+    # Remove last list element
     lst.pop()
-    return lst
 
-def delete_second_by_index(lst):
+
+def delete_second_element_by_index(lst):
+    # Delete second element (index 1)
     del lst[1]
-    return lst
 
-def delete_by_value(lst, value):
+
+def delete_element_by_value(lst, value):
+    # Delete first matching element by value
     lst.remove(value)
-    return lst
 
-def clear_list(lst):
+
+def delete_all_elements(lst):
+    # Delete all elements from list
     lst.clear()
-    return lst
 
-def build_list2():
-    return ["test", "a", "new", "list"]
 
 def sort_list_alpha(lst):
+    # Sort alphabetically
     lst.sort()
-    return lst
+
 
 def sort_list_reverse_alpha(lst):
+    # Sort reverse alphabetically
     lst.sort(reverse=True)
-    return lst

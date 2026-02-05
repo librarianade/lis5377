@@ -1,55 +1,54 @@
+"""
+SkillSet 1 – Lists
+Developer: Ayansewa Adedeji
+"""
+
 from functions import *
 
-def main():
-    print("Python Lists")
-    print("Program Requirements:")
-    print("Developer: Ayansewa Adedeji\n")
+# Create list1
+list1 = [1, 'test', 3.14, True]
 
-    list1 = build_list1()
-    print(f"Print list1: {list1}\n")
+print("Print list1:", list1)
 
-    print("Append '@' character to end of list1:")
-    print(append_at(list1.copy()) if False else append_at(list1))  # keeps exact list1 flow
-    print()
+append_at(list1)
+print("\nAppend '@' character to end of list1:")
+print(list1)
 
-    print("Insert number 6 at beginning of list1:")
-    print(insert_six_front(list1))
-    print()
+insert_at_beginning(list1)
+print("\nInsert number 6 at beginning of list1:")
+print(list1)
 
-    print("Display number of list1 elements:")
-    print(count_elements(list1))
-    print()
+print("\nDisplay number of list1 elements:")
+print(len(list1))
 
-    print("Reverse list1:")
-    print(reverse_list(list1))
-    print()
+reverse_list(list1)
+print("\nReverse list1:")
+print(list1)
 
-    print("Remove last list1 element:")
-    print(remove_last(list1))
-    print()
+remove_last_element(list1)
+print("\nRemove last list1 element:")
+print(list1)
 
-    print("Delete second element from list1 by *index* (note: index 1=2nd element):")
-    print(delete_second_by_index(list1))
-    print()
+delete_second_element_by_index(list1)
+print("\nDelete second element from list1 by index (note: index 1=2nd element):")
+print(list1)
 
-    print("Delete element from list1 by *value* (3.14):")
-    print(delete_by_value(list1, 3.14))
-    print()
+delete_element_by_value(list1, 3.14)
+print("\nDelete element from list1 by value (3.14):")
+print(list1)
 
-    print("Delete all elements from list1:")
-    print(clear_list(list1))
-    print()
+delete_all_elements(list1)
+print("\nDelete all elements from list1:")
+print(list1)
 
-    list2 = build_list2()
-    print(f"Print list2: {list2}\n")
+# Create list2
+list2 = ['test', 'a', 'new', 'list']
+print("\nPrint list2:", list2)
 
-    print("Sort elements in list2 alphabetically - using sort():")
-    print(sort_list_alpha(list2))
-    print()
+sort_list_alpha(list2)
+print("\nSort elements in list2 alphabetically - using sort():")
+print(list2)
 
-    print("Sort elements in list2 reverse alphabetically - using sort():")
-    print(sort_list_reverse_alpha(list2))
-    print()
-
-if __name__ == "__main__":
-    main()
+sort_list_reverse_alpha(list2)
+print("\nSort elements in list2 reverse alphabetically - using sort():")
+print(list2)
