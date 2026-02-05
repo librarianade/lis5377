@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""SkillSet 3 – Sets (main.py)
+"""SkillSet 3 Sets (main.py)
 Developer: Ayansewa Adedeji
 """
 

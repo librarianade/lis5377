@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""SkillSet 2 – Tuples (main.py)
+"""SkillSet 2 Tuples (main.py)
 Developer: Ayansewa Adedeji
 """
 
