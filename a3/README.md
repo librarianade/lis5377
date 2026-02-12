@@ -1,12 +1,12 @@
 **Developer:** Ayansewa Adedeji  
 **Course:** Artificial Intelligence Applications
 
-[A3.ipynb](A3.ipynb)
-
-3. [A3 README.md](a3/README.md "My A3 README.md file")
-    - Assignment requirements, as per A1.
+    - Assignment requirements.
     - Jupyter Notebook screenshots.
     - A3 .ipynb file link
+
+# Files:
+    - [A3.ipynb](A3.ipynb)
 
 ## Screenshot from JupyterLab output
 
