@@ -1,12 +1,19 @@
-**Developer:** Ayansewa Adedeji  
-**Course:** Artificial Intelligence Applications
+# LIS5377 AI Applications
 
-    - Assignment requirements.
-    - Jupyter Notebook screenshots.
-    - A3 .ipynb file link
+## Developer: Ayansewa Adedeji
 
-# Files:
-    - [A3.ipynb](A3.ipynb)
+### LIS5377 Requirements (Assignment 3)
+
+1. Requirements
+    - Use "Separation of Concerns" design principles
+    - Provide screenshots of completed app
+    - Provide screenshots of completed python skill sets
+
+
+## Files
+- [A3.ipynb](A3.ipynb)
+
+
 
 ## Screenshot from JupyterLab output
 
