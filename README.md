@@ -25,7 +25,11 @@
     - Provide screenshots of completed Python skill sets
 
 3. [A3 README.md](a3/README.md "My A3 README.md file")
-    - TBD
+    - Backward-engineer (using Python)
+    - Demonstrate skillset – Dictionary
+    - Demonstrate skillset – Pandas DataFrame Series 1
+    - Demonstrate skillset – Pandas DataFrame Series 2
+
 
 4. [A4 README.md](a4/README.md "My A4 README.md file")
     - TBD
