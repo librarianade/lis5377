@@ -38,20 +38,20 @@ This project demonstrates natural language processing, sentiment analysis, and p
 
 ## Skill Set 7 – Pseudo Random Number List
 
-[Click to view](../skill_set/ss7_random_number_list)
+- [Click to view](../skill_set/ss7_random_number_list)
 
 ![SS7 Output](images/ss7_random_number_list.png)
 
 
 
 ## Skill Set 8 – Annual Compound Interest Investment Report
-[Click to view](../skill_set/ss8_interest_calculator)
+- [Click to view](../skill_set/ss8_interest_calculator)
 
 ![SS8 Output](images/ss8_interest_calculator.gif)
 
 
 ## Skill Set 9 – Guessing Game
-[Click to view](../skill_set/ss9_guessing_game)
+- [Click to view](../skill_set/ss9_guessing_game)
 
 ![SS9 Output](images/ss9_guessing_game.gif)
 
