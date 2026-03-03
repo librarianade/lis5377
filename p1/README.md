@@ -41,6 +41,11 @@ This project demonstrates natural language processing, sentiment analysis, and p
 ![SS7 Output](images/ss7_random_number_list.png)
 
 
+## Skill Set 8 – Annual Compound Interest Investment Report
+
+![SS8 Output](images/ss8_interest_calculator.gif)
+
+
 ## SkillSet 4 — Dictionary
 - [SkillSet 4 — Dictionary](../skill_set/ss4_dictionary)
 
