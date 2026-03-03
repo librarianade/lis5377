@@ -46,19 +46,8 @@ This project demonstrates natural language processing, sentiment analysis, and p
 ![SS8 Output](images/ss8_interest_calculator.gif)
 
 
-## SkillSet 4 — Dictionary
-- [SkillSet 4 — Dictionary](../skill_set/ss4_dictionary)
+## Skill Set 9 – Guessing Game
 
-![SkillSet4](images/ss4_dictionary.gif)
-
-
-## SkillSet 5 — Pandas DataFrame / Series 1
-- [SkillSet 5 — Pandas DF/Series 1](../skill_set/ss5_pandasDFseries1)
-
-![SkillSet5](images/ss5_pandasDFseries1.gif)
+![SS9 Output](images/ss9_guessing_game.gif)
 
 
-## SkillSet 6 — Pandas DataFrame / Series 2
-- [SkillSet 6 — Pandas DF/Series 2](../skill_set/ss6_pandasDFseries2)
-
-![SkillSet6](images/ss6_pandasDFseries2.gif)
