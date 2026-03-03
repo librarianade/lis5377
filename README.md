@@ -38,7 +38,12 @@
     - TBD
 
 6. [P1 README.md](p1/README.md "My P1 README.md file")
-    - TBD
+    - Use "Separation of Concerns" design principles
+    - Backward-engineer (using Python)
+    - Simple predictive analysis
+    - Provide screenshots of completed app
+    - Provide screenshots of completed python skill sets (SS7-9)
+    - Links to each skillset (SS7-9)
 
 7. [P2 README.md](p2/README.md "My P2 README.md file")
     - TBD
