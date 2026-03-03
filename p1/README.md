@@ -1,41 +1,54 @@
-> **NOTE:** This README.md file should be placed at the **root of your main directory.**
+# Project 1 – Text Analysis, Classification, and Prediction
 
-# LIS5377 AI Applications
+Developer: Ayansewa Adedeji  
+Course: Artificial Intelligence Applications (LIS 5377)
 
-## Ayansewa Adedeji
+## Overview
+This project demonstrates natural language processing, sentiment analysis, and predictive classification using Python libraries such as NLTK, pandas, and scikit-learn.
 
-### LIS5377 Requirements:
+## Steps Performed
+1. Import required packages
+2. Load review data
+3. Tokenize and analyze word frequency
+4. Remove stopwords and stem words
+5. Perform sentiment analysis using VADER
+6. Classify spam vs non-spam emails
+7. Evaluate prediction accuracy using confusion matrix
 
-*Course Work Links:*
 
-1. [A1 README.md](a1/README.md "My A1 README.md file")
-    - Install Anaconda Python
-    - Install Visual Studio Code
-    - Create a1_paycheck_calculator application
-    - Create a1_paycheck_calculator Jupyter Notebook
-    - Provide screenshots of installations
-    - Create Bitbucket repo
-    - Provide git command descriptions
-     
-2. [A2 README.md](a2/README.md "My A2 README.md file")
-    - Create conda environments
-    - Using "Separation of Concerns" design principles
-    - Examining, sorting, shaping, and analyzing data sets
+### Requirements
+
+1. Requirements
+    - Use "Separation of Concerns" design principles
+    - Backward-engineer (using Python)
+    - Simple predictive analysis
     - Provide screenshots of completed app
-    - Provide screenshots of completed Python skill sets
+    - Provide screenshots of completed python skill sets (SS7-9)
+    - Links to each skillset (SS7-9)
 
-3. [A3 README.md](a3/README.md "My A3 README.md file")
-    - TBD
+## Files
+- [P1.ipynb](P1.ipynb)
 
-4. [A4 README.md](a4/README.md "My A4 README.md file")
-    - TBD
+## Output Screenshots
 
-5. [A5 README.md](a5/README.md "My A5 README.md file")
-    - TBD
+### Import and setup
+![Output](images/p1_output.gif)
 
-6. [P1 README.md](p1/README.md "My P1 README.md file")
-    - TBD
 
-7. [P2 README.md](p2/README.md "My P2 README.md file")
-    - TBD
 
+## SkillSet 4 — Dictionary
+- [SkillSet 4 — Dictionary](../skill_set/ss4_dictionary)
+
+![SkillSet4](images/ss4_dictionary.gif)
+
+
+## SkillSet 5 — Pandas DataFrame / Series 1
+- [SkillSet 5 — Pandas DF/Series 1](../skill_set/ss5_pandasDFseries1)
+
+![SkillSet5](images/ss5_pandasDFseries1.gif)
+
+
+## SkillSet 6 — Pandas DataFrame / Series 2
+- [SkillSet 6 — Pandas DF/Series 2](../skill_set/ss6_pandasDFseries2)
+
+![SkillSet6](images/ss6_pandasDFseries2.gif)
