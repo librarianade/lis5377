@@ -27,11 +27,11 @@ This project demonstrates natural language processing, sentiment analysis, and p
     - Links to each skillset (SS7-9)
 
 ## Files
-- [P1.ipynb](P1.ipynb)
+- [P1.ipynb](p1.ipynb)
 
 ## Output Screenshots
 
-### Import and setup
+
 ![Output](images/p1_output.gif)
 
 
