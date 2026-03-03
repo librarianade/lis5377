@@ -36,6 +36,11 @@ This project demonstrates natural language processing, sentiment analysis, and p
 
 
 
+## Skill Set 7 – Pseudo Random Number List
+
+![SS7 Output](images/ss7_random_number_list.png)
+
+
 ## SkillSet 4 — Dictionary
 - [SkillSet 4 — Dictionary](../skill_set/ss4_dictionary)
 
