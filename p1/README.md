@@ -29,6 +29,10 @@ This project demonstrates natural language processing, sentiment analysis, and p
 ## Files
 - [P1.ipynb](p1.ipynb)
 
+## Report on Real-World Application of P1
+
+[Report](real_world_application.doc)
+
 ## Output Screenshots
 
 
