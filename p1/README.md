@@ -53,6 +53,10 @@ This project demonstrates natural language processing, sentiment analysis, and p
 
 ![SS8 Output](images/ss8_interest_calculator.gif)
 
+## Skill Set 8 – Yearly, quarterly, monthly, daily & exit (EXTRA)
+- [Click to view](../skill_set/ss8_extra/)
+
+![Extra](images/ss8_extra.gif)
 
 ## Skill Set 9 – Guessing Game
 - [Click to view](../skill_set/ss9_guessing_game)
