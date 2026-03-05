@@ -55,7 +55,7 @@ This project demonstrates natural language processing, sentiment analysis, and p
 
 
 ## Skill Set 8 – Yearly, quarterly, monthly, daily & exit (EXTRA)
-- [Click to view](../skill_set/ss8_extra)
+- [Click to view](../skill_set/ss8_extra/)
 
 ![Extra](images/ss8_extra.gif)
 
