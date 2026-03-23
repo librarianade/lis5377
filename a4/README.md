@@ -5,16 +5,13 @@ Course: Artificial Intelligence Applications (LIS 5377)
 
 
 **Program Requirements:**
-1. Contrast similarities/differences among AI vs. Machine-Learning Vs. Deep-learning
-2. Correlation tests
-3. Use simple linear regression
-4. Create linear model
-5. Plot regression line
-6. Make predictions using simple linear regression model
-7. plot residuals
-8. Provide screenshots of completed app
-9. Provide screenshots of completed python skill sets (SS10-12)
-10. Links to each skillset (SS10-12)
+1. Requirements
+    - AI vs. Machine-Learning Vs. Deep-learning (similarities/differences)
+    - Linear model, regression tests, correlation tests
+    - Making predictions using linear regression
+    - Plots (residuals and regression line)
+    - Provide screenshots of completed python skill sets
+    - Links to each skillsets (SS10-12)
 
 ## Files
 - [a4.ipynb](a4.ipynb)

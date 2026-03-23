@@ -32,7 +32,13 @@
 
 
 4. [A4 README.md](a4/README.md "My A4 README.md file")
-    - TBD
+    - AI vs. Machine-Learning Vs. Deep-learning (similarities/differences)
+    - Linear model, regression tests, correlation tests
+    - Making predictions using linear regression
+    - Plots (residuals and regression line)
+    - Demonstration of skillsets
+    - Provide screenshots of completed python skill sets
+    
 
 5. [A5 README.md](a5/README.md "My A5 README.md file")
     - TBD
