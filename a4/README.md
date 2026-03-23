@@ -32,13 +32,13 @@
 
 
 ## Skill Set 11 – Lists and dictionaries (with data validation)
-- [Click to view](../skill_set/ss8_interest_calculator)
+- [Click to view](../skill_set/ss11_list_dictionaries_data_validation/)
 
-![SS8 Output](images/ss8_interest_calculator.gif)
+![SS11 Output](images/list_dictionaires.gif)
 
 
 ## Skill Set 12 – File information
-- [Click to view](../skill_set/ss8_extra/)
+- [Click to view](../skill_)
 
 ![Extra](images/ss8_extra.gif)
 
