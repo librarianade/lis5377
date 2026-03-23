@@ -23,21 +23,21 @@
 
 
 
-## Skill Set 7 – Pseudo Random Number List
+## Skill Set 10 – Simple Shopping Cart (with data validation)
 
-- [Click to view](../skill_set/ss7_random_number_list)
+- [Click to view](../skill_set/ss10_shopping_cart/)
 
-![SS7 Output](images/ss7_random_number_list.png)
+![SS10 Output](images/shopping_cart.gif)
 
 
 
-## Skill Set 8 – Annual Compound Interest Investment Report
+## Skill Set 11 – Lists and dictionaries (with data validation)
 - [Click to view](../skill_set/ss8_interest_calculator)
 
 ![SS8 Output](images/ss8_interest_calculator.gif)
 
 
-## Skill Set 8 – Yearly, quarterly, monthly, daily & exit (EXTRA)
+## Skill Set 12 – File information
 - [Click to view](../skill_set/ss8_extra/)
 
 ![Extra](images/ss8_extra.gif)
