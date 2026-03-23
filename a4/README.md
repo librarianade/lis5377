@@ -1,10 +1,8 @@
 # Assignment 4 – Regression Analysis
 
-Developer: Ayansewa Adedeji  
-Course: Artificial Intelligence Applications (LIS 5377)
+## Developer: Ayansewa Adedeji  
+### Artificial Intelligence Applications (LIS 5377)
 
-
-**Program Requirements:**
 1. Requirements
     - AI vs. Machine-Learning Vs. Deep-learning (similarities/differences)
     - Linear model, regression tests, correlation tests
