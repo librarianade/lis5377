@@ -38,13 +38,9 @@
 
 
 ## Skill Set 12 – File information
-- [Click to view](../skill_)
+- [Click to view](../skill_set/ss12_file_info/)
 
-![Extra](images/ss8_extra.gif)
+![SS12 Output](images/file_info.gif)
 
-## Skill Set 9 – Guessing Game
-- [Click to view](../skill_set/ss9_guessing_game)
-
-![SS9 Output](images/ss9_guessing_game.gif)
 
 
