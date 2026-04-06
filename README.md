@@ -41,7 +41,19 @@
     
 
 5. [A5 README.md](a5/README.md "My A5 README.md file")
-    - TBD
+    - Contrast similarities/differences among AI vs. Machine-Learning Vs. Deep-Learning
+    - Identify correlations
+    - Use seaborn (data visualization library built on top of matplotlib)
+    - Graph correlations
+    - Use multiple linear regression
+    - Plot regression line
+    - Make predictions using linear regression model
+    - Plot residuals
+    - Algorithms using Conda environment (ss13)
+    - Python Image processing (ss14)
+    - Python image processing (ss15)
+    - Provide screenshots of completed python skill sets
+    - Links to each skillsets (SS13-15
 
 6. [P1 README.md](p1/README.md "My P1 README.md file")
     - Use "Separation of Concerns" design principles

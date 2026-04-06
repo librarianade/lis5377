@@ -21,7 +21,7 @@
 
 
 ## Files
-- [a5.ipynb](a5.ipynb)
+- [Click to view a5.ipynb](a5.ipynb)
 
 
 
@@ -34,21 +34,21 @@
 
 ## Skill Set 13 – Algorithms
 
-- [Click to view](../skill_set/ss13_algorithms/algorithms.ipynb)
+- [Click to view ss13 ipynb file](../skill_set/ss13_algorithms/algorithms.ipynb)
 
 ![SS13 Output](images/algorithms.gif)
 
 
 
 ## Skill Set 14 – Python Image Processing 1
-- [Click to view](../skill_set/ss14_image_processing1/image_processing1.ipynb)
-- [Click to view](../skill_set/ss14_image_processing1/watch_rgb.png)
-- [Click to view](../skill_set/ss14_image_processing1/cat-grayscale.jpg)
+- [Click to view ss14 ipynb file](../skill_set/ss14_image_processing1/image_processing1.ipynb)
+- [Click to view Image 1](../skill_set/ss14_image_processing1/watch_rgb.png)
+- [Click to view Image 2](../skill_set/ss14_image_processing1/cat-grayscale.jpg)
 ![SS14 Output](images/image_processing1.gif)
 
 
 ## Skill Set 15 – Python Image Processing 2
-- [Click to view](../skill_set/ss15_image_processing2/image_processing2.ipynb)
+- [Click to view ss15 ipynb file](../skill_set/ss15_image_processing2/image_processing2.ipynb)
 
 ![SS15 Output](images/image_processing2.gif)
 
