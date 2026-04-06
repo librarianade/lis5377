@@ -1,41 +1,56 @@
-> **NOTE:** This README.md file should be placed at the **root of your main directory.**
+# Assignment 5 – Predictive analysis (Multiple linear regression)
 
-# LIS5377 AI Applications
+## Developer: Ayansewa Adedeji  
+### Artificial Intelligence Applications (LIS 5377)
 
-## Ayansewa Adedeji
+1. Requirements
+    - Contrast similarities/differences among AI vs. Machine-Learning Vs. Deep-Learning
+    - Identify correlations
+    - Use seaborn (data visualization library built on top of matplotlib)
+    - Graph correlations
+    - Use multiple linear regression
+    - Plot regression line
+    - Make predictions using linear regression model
+    - Plot residuals
+    - Algorithms using Conda environment (ss13)
+    - Python Image processing (ss14)
+    - Python image processing (ss15)
+    - Provide screenshots of completed python skill sets
+    - Links to each skillsets (SS13-15)
 
-### LIS5377 Requirements:
 
-*Course Work Links:*
 
-1. [A1 README.md](a1/README.md "My A1 README.md file")
-    - Install Anaconda Python
-    - Install Visual Studio Code
-    - Create a1_paycheck_calculator application
-    - Create a1_paycheck_calculator Jupyter Notebook
-    - Provide screenshots of installations
-    - Create Bitbucket repo
-    - Provide git command descriptions
-     
-2. [A2 README.md](a2/README.md "My A2 README.md file")
-    - Create conda environments
-    - Using "Separation of Concerns" design principles
-    - Examining, sorting, shaping, and analyzing data sets
-    - Provide screenshots of completed app
-    - Provide screenshots of completed Python skill sets
+## Files
+- [a5.ipynb](a5.ipynb)
 
-3. [A3 README.md](a3/README.md "My A3 README.md file")
-    - TBD
 
-4. [A4 README.md](a4/README.md "My A4 README.md file")
-    - TBD
 
-5. [A5 README.md](a5/README.md "My A5 README.md file")
-    - TBD
+## Output Screenshots
 
-6. [P1 README.md](p1/README.md "My P1 README.md file")
-    - TBD
 
-7. [P2 README.md](p2/README.md "My P2 README.md file")
-    - TBD
+![Output](images/a5_multiple_regression.gif)
+
+
+
+## Skill Set 13 – Algorithms
+
+- [Click to view](../skill_set/ss13_algorithms/algorithms.ipynb)
+
+![SS13 Output](images/algorithms.gif)
+
+
+
+## Skill Set 14 – Python Image Processing 1
+- [Click to view](../skill_set/ss14_image_processing1/image_processing1.ipynb)
+- [Click to view](../skill_set/ss14_image_processing1/watch_rgb.png)
+- [Click to view](../skill_set/ss14_image_processing1/cat-grayscale.jpg)
+![SS14 Output](images/image_processing1.gif)
+
+
+## Skill Set 15 – Python Image Processing 2
+- [Click to view](../skill_set/ss15_image_processing2/image_processing2.ipynb)
+
+![SS15 Output](images/image_processing2.gif)
+
+
 
