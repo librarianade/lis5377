@@ -1,41 +1,33 @@
-> **NOTE:** This README.md file should be placed at the **root of your main directory.**
+# Project 2 – Deep Learning - Image Classification
 
-# LIS5377 AI Applications
+Developer: Ayansewa Adedeji  
+Course: Artificial Intelligence Applications (LIS 5377)
 
-## Ayansewa Adedeji
+## Overview
+This project demonstrates knowledge about machine learning and deep learning using different python libraries for image classification.
 
-### LIS5377 Requirements:
 
-*Course Work Links:*
 
-1. [A1 README.md](a1/README.md "My A1 README.md file")
-    - Install Anaconda Python
-    - Install Visual Studio Code
-    - Create a1_paycheck_calculator application
-    - Create a1_paycheck_calculator Jupyter Notebook
-    - Provide screenshots of installations
-    - Create Bitbucket repo
-    - Provide git command descriptions
-     
-2. [A2 README.md](a2/README.md "My A2 README.md file")
-    - Create conda environments
-    - Using "Separation of Concerns" design principles
-    - Examining, sorting, shaping, and analyzing data sets
-    - Provide screenshots of completed app
-    - Provide screenshots of completed Python skill sets
+### Requirements
 
-3. [A3 README.md](a3/README.md "My A3 README.md file")
-    - TBD
+1. Requirements
+    - Import necessary packages
+    - Machine Learning - Wine Quality Prediction
+    - Deep Learning - Image Classification
+    - Provide screenshots of completed tasks
 
-4. [A4 README.md](a4/README.md "My A4 README.md file")
-    - TBD
+## Files
+- [P2.ipynb for Class Exercise](p2_classEX.ipynb)
+- [P2.ipynb for CNN](p2.ipynb)
+## Report on Real-World Application of P2
 
-5. [A5 README.md](a5/README.md "My A5 README.md file")
-    - TBD
+[Report](Project%202_AI%20applications.docx)
 
-6. [P1 README.md](p1/README.md "My P1 README.md file")
-    - TBD
+## Output Screenshots
 
-7. [P2 README.md](p2/README.md "My P2 README.md file")
-    - TBD
+
+![Machine Learning_Wine Quality] (images/ML_Wine_Quality.gif)
+
+![Deep Learning - CNN] (images/CNN_image_classification.gif)
+
 
