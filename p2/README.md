@@ -23,11 +23,9 @@ This project demonstrates knowledge about machine learning and deep learning usi
 
 [Report](Project%202_AI%20applications.docx)
 
-## Output Screenshots
+## Output Screenshots (Machine Learning and Neural Networks)
+![Output](images/ML_Wine_Quality.gif)
+![Output](images/CNN_image_classification.gif)
 
-
-![Machine Learning_Wine Quality] (images/ML_Wine_Quality.gif)
-
-![Deep Learning - CNN] (images/CNN_image_classification.gif)
 
 

@@ -64,5 +64,6 @@
     - Links to each skillset (SS7-9)
 
 7. [P2 README.md](p2/README.md "My P2 README.md file")
-    - TBD
+    - Machine Learning - Wine Quality Prediction
+    - Deep Learning (Neural Networks)- Image Classification
 
