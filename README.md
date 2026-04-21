@@ -64,6 +64,7 @@
     - Links to each skillset (SS7-9)
 
 7. [P2 README.md](p2/README.md "My P2 README.md file")
+    - Install necessary packages and analyze images
     - Machine Learning - Wine Quality Prediction
     - Deep Learning (Neural Networks)- Image Classification
 
